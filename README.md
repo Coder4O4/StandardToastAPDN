@@ -1,6 +1,6 @@
 ## StandardToastAPDN
 
->Version : Tag = StandardToast
+>Version : CusToast		
 
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/114288510/205437985-04ec2ecd-5e97-4b98-870e-f3038994d955.png)
@@ -21,7 +21,7 @@
 >Add Dependency
 ```gradle
 	dependencies {
-	        implementation 'com.github.Coder4O4:ToastAPDN:Tag'
+	       implementation 'com.github.Coder4O4:StandardToastAPDN:CusToast'
 	}
 ```
 
